@@ -1,0 +1,11 @@
+.header {
+	height: 20vh;
+	display: flex;
+
+}
+
+img {
+  width: 300px;
+  flex-direction: flex-start;
+  padding-left: 50px; 
+}	
