@@ -1,3 +1,7 @@
+ Preview of the App
+ 
+ ![Image of App](https://i.ibb.co/LhpHPgr/apex.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
